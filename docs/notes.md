@@ -10,3 +10,4 @@ Notes and usage details for html-now.github.io.
 - link the usage section
 - clarify the setup steps
 - clarify the setup steps
+- link the usage section
